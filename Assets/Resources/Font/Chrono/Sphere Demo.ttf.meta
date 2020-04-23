@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2698c16e87870c94e82ed458a69b96c7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sphere
+  fontNames:
+  - Sphere
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 145c8335ed7015747902ca1d5e56100f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
